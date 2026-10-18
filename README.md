@@ -2,6 +2,8 @@
 
 # Management Performance Analysis Dashboard | Power BI Business Intelligence Project
 
+![Management Performance Dashboard](https://github.com/Techsis-22/Management-Performance-Analysis/blob/main/DSN%20PROJECT.jpeg?raw=true)
+
 ## 1. Project Overview
 
 Businesses generate large volumes of data through their daily operations. However, having data is not enough. The real value lies in transforming that data into meaningful insights that support informed business decisions.
